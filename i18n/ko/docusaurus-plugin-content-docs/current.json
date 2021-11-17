@@ -1,0 +1,86 @@
+{
+  "version.label": {
+    "message": "다음",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Pando Lake": {
+    "message": "Pando Lake",
+    "description": "The label for category Pando Lake in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorials": {
+    "message": "튜토리얼",
+    "description": "The label for category Tutorials in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Key Concepts": {
+    "message": "주요 개념",
+    "description": "The label for category Key Concepts in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Other FAQs": {
+    "message": "기타 자주 묻는 질문",
+    "description": "The label for category Other FAQs in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Pando Leaf": {
+    "message": "Pando Leaf",
+    "description": "The label for category Pando Leaf in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Liquidation": {
+    "message": "청산",
+    "description": "The label for category Liquidation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Pando Rings": {
+    "message": "Pando Rings",
+    "description": "The label for category Pando Rings in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Wallets": {
+    "message": "지갑",
+    "description": "The label for category Wallets in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3rd-party Applications": {
+    "message": "타사 애플리케이션",
+    "description": "The label for category 3rd-party Applications in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Security": {
+    "message": "보안",
+    "description": "The label for category Security in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community": {
+    "message": "커뮤니티",
+    "description": "The label for category Community in sidebar tutorialSidebar"
+  },
+  "sidebar.docs.category.Pando Lake & 4swap": {
+    "message": "Pando Lake & 4swap",
+    "description": "The label for category Pando Lake & 4swap in sidebar docs"
+  },
+  "sidebar.docs.category.Tutorials": {
+    "message": "튜토리얼",
+    "description": "The label for category Tutorials in sidebar docs"
+  },
+  "sidebar.docs.category.Key Concepts": {
+    "message": "주요 개념",
+    "description": "The label for category Key Concepts in sidebar docs"
+  },
+  "sidebar.docs.category.FAQs": {
+    "message": "자주 묻는 질문",
+    "description": "The label for category FAQs in sidebar docs"
+  },
+  "sidebar.docs.category.Pando Leaf": {
+    "message": "Pando Leaf",
+    "description": "The label for category Pando Leaf in sidebar docs"
+  },
+  "sidebar.docs.category.Pando Rings": {
+    "message": "Pando Rings",
+    "description": "The label for category Pando Rings in sidebar docs"
+  },
+  "sidebar.docs.category.Applications": {
+    "message": "애플리케이션",
+    "description": "The label for category Applications in sidebar docs"
+  },
+  "sidebar.docs.category.Security": {
+    "message": "보안",
+    "description": "The label for category Security in sidebar docs"
+  },
+  "sidebar.docs.category.Community": {
+    "message": "커뮤니티",
+    "description": "The label for category Community in sidebar docs"
+  }
+}

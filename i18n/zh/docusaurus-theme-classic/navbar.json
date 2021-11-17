@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Pando 文档",
+    "description": "The title in the navbar"
+  },
+  "item.label.User Manuals": {
+    "message": "使用手册",
+    "description": "Navbar item with label User Manuals"
+  },
+  "item.label.Developer": {
+    "message": "开发者",
+    "description": "Navbar item with label Developer"
+  },
+  "item.label.Blog": {
+    "message": "博客",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
